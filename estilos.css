@@ -1,0 +1,14 @@
+body{
+	background-color: blue;
+}
+
+.caja1 {
+	width: 500px;
+	height: 500px;
+	background-color: drakblue;
+}
+
+.caja2{
+	border: solid 2px green;
+	background-color: #88dddd;
+}
